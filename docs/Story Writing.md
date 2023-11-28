@@ -41,11 +41,22 @@ You'll want to save the five outputs comprising your story concept that it gener
 
 Congrats! You now have in front of you the first few lines of an original generated story. The cool thing is, every time you do this, it will be a little bit different. Zephyr actually gave me chills a few times. And it goes without saying that you should try other philosophers or authors and possibly tinker with the prompts themselves. 
 
+---
+
 ### More Chatbots
 There are more chatbots available to try for free:
 * [Vercel Playground] is a good resource for also checking the Llama-70B and other OpenAI models that aren't ChatGPT vanilla. You can actually write one prompt and get responses from several chatbots simultaneously.
 * [Chatbot Arena] is cool for checking the more of the capabilities of open source models side by side in a similar manner to Vercel. This is also a good time to mention that Huggingface is a name that is going to come back. If you have any inclination to continue with this process, you might as well take a look around.
 
+---
+
+Now that we have a grasp of that process and those tools, you might be wondering how we might finish our book with this method. It is definitely an option to generate more in this manner. But for fun, let's start to take a look at the tools we mostly use to automate this process. Click the button below to get started:
+
+<a target="_blank" ref="https://colab.research.google.com/github/CalcChatty/CalcChatty.github.io/blob/main/notebooks/HF_Zephyr7B_Alpha.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Keep in mind that there are usage limits on Google Colab GPU access. Normally we can get at least an hour or two of GPU time each day.
 
 [Vercel Playground]:https://sdk.vercel.ai/
 
