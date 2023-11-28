@@ -52,7 +52,7 @@ There are more chatbots available to try for free:
 
 Now that we have a grasp of that process and those tools, you might be wondering how we might finish our book with this method. It is definitely an option to generate more in this manner. But for fun, let's start to take a look at the tools we mostly use to automate this process. Click the button below to get started:
 
-<a target="_blank" ref="https://colab.research.google.com/github/CalcChatty/CalcChatty.github.io/blob/main/notebooks/HF_Zephyr7B_Alpha.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/CalcChatty/CalcChatty.github.io/blob/main/notebooks/HF_Zephyr7B_Alpha.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
