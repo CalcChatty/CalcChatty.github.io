@@ -8,7 +8,7 @@ If you've never engaged in a conversation with a LLM (Large Language Model) chat
 Don't worry, we'll use examples to illustrate so the process is as painless as possible. 
 
 ## Generate a Story Concept from Philosopher Critique
-Go the [ChatGPT] and paste this prompt:
+Go to [ChatGPT] and paste this prompt:
 >Invoking the philosophical ideas of Albert Camus, generate two labelled paragraphs. A story concept that embodies and encapsulated their key themes. Provide: I. A captivating title. II. A brief paragraph summary of the story concept. III. A paragraph about the central themes that the story will address, reflecting Camus's perspectives on possible futures.
 
 Now do the same in [Zephyr Chat]. Notice how the responses are similar, but not exact. This was intentional. It was a process of rewording the prompts painstakingly so that they come up with exactly what you see, the way you see it: a title, story concept, and central themes. It sounds more magical than in practice. It was a matter of crafting in ChatGPT first and then confirming the response in Zephyr, making some small changes and then going back to ChatGPT for a final confirmation. It only took going through this process twice so there was little point to heavy documentation.
@@ -27,7 +27,7 @@ And now let's create a setting:
 >Use this information in creating a single long paragraph about the setting and world-building elements. Give a detailed description of the world in which the story takes place, ensuring that it resonates with the central themes and philosophies explored in the narrative. Make sure not to develop the plot, just create the basic setting in one paragraph for now.`
 
 ## Generate The Beginning of the Story
-You'll want to save the story concept that it generates in a notepad. All of the outputs from this series of prompts put to together comprise a {Story Details} referenced below.
+You'll want to save the five outputs comprising your story concept that it generates in a notepad. All of the outputs from this series of prompts put to together comprise the {Story Details} template tag referenced below.
 
 ### Prompt that produced a basic outline for the story:
 >Given the following descriptions, write an basic plot outline paragraphs, roman numerals for each part. Only discuss the plot and not other aspects of the story. Identify important characters and describe the major events of the story. Do not explain the events or interpret them in any way; merely describes what happens.: {Story Details}
@@ -38,7 +38,7 @@ You'll want to save the story concept that it generates in a notepad. All of the
 ### Prompt that produced the first draft of the first part of the story.
 >Write the first part of the story, 1. Write in the tone of a pioneering science fiction author, known for confident and savvy writing style that plenty of dialogue, blended slang, folk aphorism, technical jargon, clever understatement, apparent casualness, and a concentration on people rather than gadgets. Use a sense of realism to incorporate the great mass of necessary science fiction data without recourse to long descriptive passages and deadening explanations common to earlier science fiction. Use the writing technique of "indirect exposition" .
 
-Now you have in front of you the first few lines of an original generated story. The cool thing is, every time you do this, it will be a little bit different. Zephyr actually gave me chills on a few of the stories. And it goes without saying that you should try other philosophers or authors. 
+Congrats! You now have in front of you the first few lines of an original generated story. The cool thing is, every time you do this, it will be a little bit different. Zephyr actually gave me chills a few times. And it goes without saying that you should try other philosophers or authors and possibly tinker with the prompts themselves. 
 
 ### More Chatbots
 There are more chatbots available to try for free:
