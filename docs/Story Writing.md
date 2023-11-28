@@ -58,6 +58,8 @@ Now that we have a grasp of that process and those tools, you might be wondering
 
 Keep in mind that there are usage limits on Google Colab GPU access. Normally we can get at least an hour or two of GPU time each day.
 
+[Chatbot Arena]:https://chat.lmsys.org/
+
 [Vercel Playground]:https://sdk.vercel.ai/
 
 [Zephyr Chat]:https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat
