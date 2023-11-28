@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Navigation Structure
+title: Configuration
 nav_order: 2
 ---
 
 # Navigation Structure
+
+Prompt engineering
