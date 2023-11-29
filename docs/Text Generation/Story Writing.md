@@ -15,6 +15,9 @@ Go to [ChatGPT] and paste this prompt:
 
 Now do the same in [Zephyr Chat]. Notice how the responses are similar, but not exact. This was intentional. It was a process of rewording the prompts painstakingly so that they come up with exactly what you see, the way you see it: a title, story concept, and central themes. It sounds more magical than in practice. It was a matter of crafting in ChatGPT first and then confirming the response in Zephyr, making some small changes and then going back to ChatGPT for a final confirmation. It only took going through this process twice so there was little point to heavy documentation.
 
+Here is a flow chat describing the process:
+![](../../assets/architecture.png)
+
 Here are the rest of the prompts. Personally, I thought Zephyr was actually more creative but ChatGPT is obviously more forgiving for lack of clairity. Let's start by getting a critique from another philosopher:
 >Considering possible critiques of the story concept and themes by Jean-Paul Sartre, and their philosophical viewpoints. Write a paragraph assessing how
 Sartre might challenge or enrich the narrative and a second paragraph discussing any potential conflicts or resonances between Camus's and Sartre's ideas.`
