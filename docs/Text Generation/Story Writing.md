@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Philosophical Storytelling
-nav_order: 2
+parent:Text Generation
+nav_order: 1
 ---
 
 # Prompt Engineering Notes
