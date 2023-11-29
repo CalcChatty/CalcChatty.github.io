@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philosophical Storytelling
-parent:Text Generation
+parent: Text Generation
 nav_order: 1
 ---
 
