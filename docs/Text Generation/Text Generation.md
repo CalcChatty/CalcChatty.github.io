@@ -3,7 +3,7 @@ layout: default
 title: Text Generation
 nav_order: 2
 has_children: true
-permalink: /docs/Text Generation
+permalink: /docs/text_generation
 ---
 
 # Text generation
