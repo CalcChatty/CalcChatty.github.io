@@ -3,6 +3,7 @@ layout: default
 title: Philosophical Storytelling
 parent: Text Generation
 nav_order: 1
+has_children: true
 ---
 # Generate a Story Concept from Philosopher Critique
 If you've never engaged in a conversation with a LLM (Large Language Model) chatbot, you really should. 
@@ -12,7 +13,7 @@ Don't worry, we'll use examples to illustrate so the process is as painless as p
 Go to [ChatGPT] and paste this prompt:
 >Invoking the philosophical ideas of Albert Camus, generate two labelled paragraphs. A story concept that embodies and encapsulated their key themes. Provide: I. A captivating title. II. A brief paragraph summary of the story concept. III. A paragraph about the central themes that the story will address, reflecting Camus's perspectives on possible futures.
 
-Now do the same in [Zephyr Chat]. Notice how the responses are similar, but not exact. This was intentional. It was a process of rewording the prompts painstakingly so that they come up with exactly what you see, the way you see it: a title, story concept, and central themes. It sounds more magical than in practice. It was a matter of crafting in ChatGPT first and then confirming the response in Zephyr, making some small changes and then going back to ChatGPT for a final confirmation. It only took going through this process twice so there was little point to heavy documentation.
+Now, do the same in [Zephyr Chat]. Notice how the responses are similar, but not exact. This was intentional. It was a process of rewording the prompts painstakingly so that they come up with exactly what you see, the way you see it: a title, story concept, and central themes. It sounds more magical than in practice. It was a matter of crafting in ChatGPT first and then confirming the response in Zephyr, making some small changes and then going back to ChatGPT for a final confirmation. It only took going through this process twice so there was little point to heavy documentation.
 
 Here is a flow chart describing the process:
 ![](../../assets/architecture.png)
