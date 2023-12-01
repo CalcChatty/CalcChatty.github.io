@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Write First Chapter
-parent: Story Writing
+parent: Philosophical Storytelling
 grand_parent: Text Generation
 ---
 
