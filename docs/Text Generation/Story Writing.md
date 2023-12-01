@@ -17,7 +17,7 @@ Now do the same in [Zephyr Chat]. Notice how the responses are similar, but not 
 Here is a flow chart describing the process:
 ![](../../assets/architecture.png)
 
-Here are the rest of the prompts. Personally, I thought Zephyr was actually more creative but ChatGPT is obviously more forgiving for lack of clairity. Let's start by getting a critique from another philosopher:
+Here are the rest of the prompts to use to continue the conversation. Personally, I thought Zephyr was actually more creative but ChatGPT is obviously more forgiving for lack of clairity. Let's start by getting a critique from another philosopher:
 >Considering possible critiques of the story concept and themes by Jean-Paul Sartre, and their philosophical viewpoints. Write a paragraph assessing how
 Sartre might challenge or enrich the narrative and a second paragraph discussing any potential conflicts or resonances between Camus's and Sartre's ideas.`
 
@@ -31,7 +31,7 @@ And now let's create a setting:
 >Use this information in creating a single long paragraph about the setting and world-building elements. Give a detailed description of the world in which the story takes place, ensuring that it resonates with the central themes and philosophies explored in the narrative. Make sure not to develop the plot, just create the basic setting in one paragraph for now.`
 
 ## Generate The Beginning of the Story
-You'll want to save the five outputs comprising your story concept that it generates in a notepad. All of the outputs from this series of prompts put to together comprise the {Story Details} template tag referenced below.
+You'll want to copy, paste, and save the five outputs comprising your story concept that it generates in a notepad (remember, you ONLY need the outputs, not the prompts). All of the outputs from this series of prompts put to together comprise the {Story Details} template tag referenced below that should be added as context for the prompt.
 
 ### Prompt that produced a basic outline for the story:
 >Given the following descriptions, write an basic plot outline paragraphs, roman numerals for each part. Only discuss the plot and not other aspects of the story. Identify important characters and describe the major events of the story. Do not explain the events or interpret them in any way; merely describes what happens.: {Story Details}
@@ -40,7 +40,8 @@ You'll want to save the five outputs comprising your story concept that it gener
 >Here is detailed information about an original story. The purpose of the information is only to provide context writing an outline for only a specific part of the story. Write a separate numbered paragraph outline only and only for the events of "I. Introduction". Only work on one part of the plot and do not write one for the entire story.
 
 ### Prompt that produced the first draft of the first part of the story.
->Write the first part of the story, 1. Write in the tone of a pioneering science fiction author, known for confident and savvy writing style that plenty of dialogue, blended slang, folk aphorism, technical jargon, clever understatement, apparent casualness, and a concentration on people rather than gadgets. Use a sense of realism to incorporate the great mass of necessary science fiction data without recourse to long descriptive passages and deadening explanations common to earlier science fiction. Use the writing technique of "indirect exposition" .
+>Write the first part of the story. Write in the tone of a pioneering science fiction author, known for confident and savvy writing style that plenty of dialogue, blended slang, folk aphorism, technical jargon, clever understatement, apparent casualness, and a concentration on people rather than gadgets. Use a sense of realism to incorporate the great mass of necessary science fiction data without recourse to long descriptive passages and deadening explanations common to earlier science fiction. Use the writing technique of "indirect exposition" .
+
 
 Congrats! You now have in front of you the first few lines of an original generated story. The cool thing is, every time you do this, it will be a little bit different. Zephyr actually gave me chills a few times. And it goes without saying that you should try other philosophers or authors and possibly tinker with the prompts themselves. 
 
