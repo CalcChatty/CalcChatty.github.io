@@ -4,12 +4,11 @@ title: Philosophical Storytelling
 parent: Text Generation
 nav_order: 1
 ---
-
-# Prompt Engineering Notes
+# Generate a Story Concept from Philosopher Critique
 If you've never engaged in a conversation with a LLM (Large Language Model) chatbot, you really should. 
 Don't worry, we'll use examples to illustrate so the process is as painless as possible. 
 
-## Generate a Story Concept from Philosopher Critique
+## Prompt Engineering Notes
 Go to [ChatGPT] and paste this prompt:
 >Invoking the philosophical ideas of Albert Camus, generate two labelled paragraphs. A story concept that embodies and encapsulated their key themes. Provide: I. A captivating title. II. A brief paragraph summary of the story concept. III. A paragraph about the central themes that the story will address, reflecting Camus's perspectives on possible futures.
 
