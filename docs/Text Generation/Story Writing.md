@@ -56,6 +56,7 @@ There are more chatbots available to try for free:
 ---
 
 Now that we have a grasp of that process and those tools, you might be wondering how we might finish our book with this method. It is definitely an option to generate more in this manner. But for fun, let's start to take a look at the tools we mostly use to automate this process. Click the button below to get started:
+
 <a target="_blank" href="https://colab.research.google.com/github/CalcChatty/CalcChatty.github.io/blob/main/notebooks/HF_Zephyr7B_Alpha.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -63,6 +64,7 @@ Now that we have a grasp of that process and those tools, you might be wondering
 Keep in mind that there are usage limits on Google Colab GPU access. Normally we can get at least an hour or two of GPU time each day. You will get an error about usage limits at some point, which will interfere with whatever you have running at that moment, but otherwise it doesn't cost anything unless you upgrade on purpose. Sometimes 
 
 As far as the content of the notebook, this is an example of "one shot" inference. It is not running interations of a back and forth conversation, only one response. A conversation always begins with "system", the initial instuctions of persona of the chatbot, then "user", instructions or messages to the chatbot, which instigates an "assistant" response. To keep a conversation going you append to this list and the chatbot will respond to the overall contents. Hopefully, it makes sense why as long as it starts with "system" and ends with "user", the chatbot will attempt to create an "assistant" response. Keep in mind also that Zephyr is not particularly good at following system prompts, so usually doesn't stay in pirate persona if it even tries at all. The trade off usually is that those models that are good at personas, do not follow instructions as well, but that is something we will test for ourselves at some point in the near future. Once you've ran the blocks here and have an idea of the structure, let's actually use a notebook to generate the story parts:
+
 <a target="_blank" href="https://colab.research.google.com/github/CalcChatty/CalcChatty.github.io/blob/main/notebooks/Start_Story.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
