@@ -20,16 +20,16 @@ Here is a flow chart describing the process:
 
 Here are the rest of the prompts to use to continue the conversation. Personally, I thought Zephyr was actually more creative but ChatGPT is obviously more forgiving for lack of clairity. Let's start by getting a critique from another philosopher:
 >Considering possible critiques of the story concept and themes by Jean-Paul Sartre, and their philosophical viewpoints. Write a paragraph assessing how
-Sartre might challenge or enrich the narrative and a second paragraph discussing any potential conflicts or resonances between Camus's and Sartre's ideas.`
+Sartre might challenge or enrich the narrative and a second paragraph discussing any potential conflicts or resonances between Camus's and Sartre's ideas.
 
 Then updating the story so far based on the critique:
->Update the title, story concept and themes considering Sartre's critique. Keep in mind I am writing from the male perspective. Do not mention any philosophy or philosophers in your response.`
+>Update the title, story concept and themes considering Sartre's critique. Keep in mind I am writing from the male perspective. Do not mention any philosophy or philosophers in your response.
 
 Now we are ready to develop a character:
->Use the information in the Concept Summary and Themes to develop a Main Character. Create a three paragraph description for the protagonist in detail, ensuring that they align with the central themes and philosophies explored in the story. Give Physical, Backstory, and Personality description paragraphs.`
+>Use the information in the Concept Summary and Themes to develop a Main Character. Create a three paragraph description for the protagonist in detail, ensuring that they align with the central themes and philosophies explored in the story. Give Physical, Backstory, and Personality description paragraphs.
 
 And now let's create a setting:
->Use this information in creating a single long paragraph about the setting and world-building elements. Give a detailed description of the world in which the story takes place, ensuring that it resonates with the central themes and philosophies explored in the narrative. Make sure not to develop the plot, just create the basic setting in one paragraph for now.`
+>Use this information in creating a single long paragraph about the setting and world-building elements. Give a detailed description of the world in which the story takes place, ensuring that it resonates with the central themes and philosophies explored in the narrative. Make sure not to develop the plot, just create the basic setting in one paragraph for now.
 
 ## Generate The Beginning of the Story
 You'll want to copy, paste, and save the five outputs comprising your story concept that it generates in a notepad (remember, you ONLY need the outputs, not the prompts). All of the outputs from this series of prompts put to together comprise the {Story Details} template tag referenced below that should be added as context for the prompt.
